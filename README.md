@@ -1,6 +1,8 @@
 # Star Hopper: Glitch Jump
 Space exploration game made for js13k competition over the course of about 3 days
 
+Description: A space exploration game featuring physics-based starship piloting across dozens of systems. Land on planets, mine fuel, jump to the next system, avoid flying into the sun, and try to make it make it "home".
+
 ## Current Features
 
 * Simple space flight
